@@ -1,6 +1,6 @@
 # CONTACT MANAGEMENT PROJECT (BACKEND WEB DEVELOPMENT)
 
-This project is based on Backend Web Development (Express.js, Node.js and MongoDB). I have used JWT authentication to build login signup functionalities for authorization. Users can register, log in and receive JWT auth token which they can use to access their contacts/phone numbers of known people (CRUD operations). I would like to thank Dipesh Malvia sir for inspiring me to build this project.This project is based on Backend Web Development (Express.js, Node.js and MongoDB). I have used JWT authentication to build login signup functionalities for authorization. Users can register, log in and receive JWT auth token which they can use to access their contacts/phone numbers of known people (CRUD operations). I would like to thank Dipesh Malvia sir for inspiring me to build this project.
+This project is based on Backend Web Development (Express.js, Node.js and MongoDB). I have used JWT authentication to build login signup functionalities for authorization. Users can register, log in and receive JWT auth token which they can use to access their contacts/phone numbers of known people (CRUD operations).
 
 ## Tech Stack
 
